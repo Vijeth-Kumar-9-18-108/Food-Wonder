@@ -14,7 +14,7 @@ import './App.css';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/Food-Wonder">
       <div className="App">
         <Navbar />
         <div className="content">
