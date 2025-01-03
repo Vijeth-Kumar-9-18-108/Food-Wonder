@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Food-Wonder/static/css/main.fb4400aa.css",
-    "main.js": "/Food-Wonder/static/js/main.0f8c8b1d.js",
+    "main.js": "/Food-Wonder/static/js/main.b68b6288.js",
     "index.html": "/Food-Wonder/index.html",
     "main.fb4400aa.css.map": "/Food-Wonder/static/css/main.fb4400aa.css.map",
-    "main.0f8c8b1d.js.map": "/Food-Wonder/static/js/main.0f8c8b1d.js.map"
+    "main.b68b6288.js.map": "/Food-Wonder/static/js/main.b68b6288.js.map"
   },
   "entrypoints": [
     "static/css/main.fb4400aa.css",
-    "static/js/main.0f8c8b1d.js"
+    "static/js/main.b68b6288.js"
   ]
 }
